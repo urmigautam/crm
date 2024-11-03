@@ -1,0 +1,12 @@
+.input-group{
+    justify-content: space-around;
+}
+.select-option{
+    height: 40px;
+    width: 90px;
+    margin-right: 5px;
+}
+.test-css{
+    width: 90px;
+    margin-right: 5px;
+}
